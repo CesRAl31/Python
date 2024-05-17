@@ -1,1 +1,1 @@
-"Commit message"
+Welcome to my GitHub profile!
